@@ -6,7 +6,7 @@
 
 ## 📌 Context & Scope
 
-All reports are **reconstructed analysis of a retired security challenge** from a learning platform. It serves to showcase my SOC Analyst skills in malware triage, static analysis, and incident documentation.
+All reports are **reconstructed analysis of a retired security challenge** from a learning platform. It serves to showcase my SOC Analyst skills in malware triage, static analysis, and incident documentation.  
 *Note: AI was used to enhance documentation grammar and formatting to ensure professional standards.*
 
 ## Blue Team Labs Online

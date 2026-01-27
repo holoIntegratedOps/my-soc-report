@@ -2,7 +2,7 @@
 title: "Follina (MSDT RCE) Exploitation"
 date: "2026-01-05"
 description: "Remote Code Execution (Client-side Exploitation)"
-Tools: [ "VirusTotal", "OLE dump.py" ]
+Tools: [ "VirusTotal", "ExifTool" ]
 keywords: [ "Follina", "MSDT RCE" ]
 ---
 
@@ -12,7 +12,6 @@ keywords: [ "Follina", "MSDT RCE" ]
 |---------------------|-----------------------------------------------------------------------|
 | Incident Report     | Follina Remote Code Execution (RCE) via Malicious Office Document     |
 | Report Date         | 2026-01-05                                                            |
-| Incident ID         | IR-2026-FOLLINA-001                                                   |
 | Severity            | Critical                                                              |
 | Affected Asset      | Endpoint (Windows workstation – Microsoft Office installed)           |
 | Attack Vector       | Malicious document masquerading as `.doc`                             |
