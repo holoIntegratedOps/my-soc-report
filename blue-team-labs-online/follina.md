@@ -14,7 +14,6 @@ keywords: [ "Follina", "MSDT RCE" ]
 | Report Date         | 2026-01-05                                                            |
 | Incident ID         | IR-2026-FOLLINA-001                                                   |
 | Severity            | Critical                                                              |
-| Status              | Under Analysis / Contained                                            |
 | Affected Asset      | Endpoint (Windows workstation – Microsoft Office installed)           |
 | Attack Vector       | Malicious document masquerading as `.doc`                             |
 | Framework Used      | NIST SP 800-61 Rev. 2                                                 |
@@ -109,15 +108,11 @@ Attacker
 
 Hashing tools (SHA-256)
 
-Antivirus / Reputation engines
-
 Static file analysis tools (ExifTool)
 
 ZIP/OpenXML inspection
 
 MITRE ATT&CK framework
-
-SIEM alerting (initial trigger)
 
 ## Event Timeline
 
