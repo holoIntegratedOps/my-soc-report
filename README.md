@@ -11,4 +11,5 @@ All reports are **reconstructed analysis of a retired security challenge** from 
 
 ## Blue Team Labs Online
 
-- [Follina](./blue-team-labs-online/follina.md)
+- [Follina](./blue-team-labs-online/follina.md) disabled due to platform rules and regulations
+- [Bruteforce](./blue-team-labs-online/bruteforce.md) disabled due to platform rules and regulations
