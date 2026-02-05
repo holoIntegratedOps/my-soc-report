@@ -18,7 +18,7 @@ keywords: [ "Follina", "MSDT RCE" ]
 | Framework Used      | NIST SP 800-61 Rev. 2                                                 |
 | Threat Type         | Remote Code Execution (Client-side Exploitation)                      |
 
-## Incident Summary
+## Executive Summary
 
 On a Friday evening, the SOC team received an alert regarding a newly disclosed and actively exploited Remote Code Execution (RCE) vulnerability, known as Follina, leveraging the Microsoft Diagnostic Tool (MSDT).
 
@@ -131,7 +131,7 @@ MITRE ATT&CK framework
 |--------------------|--------------|---------------------------------------------------------|
 | Confidentiality    | High         | Possible data exfiltration via command-and-control (C2) |
 | Integrity          | High         | Potential arbitrary code execution                      |
-| Availability       | Medium       | Process termination and system instability              |
+| Availability       | High         | Process termination and system instability              |
 
 | Overall Impact | Assessment                                               |
 |----------------|----------------------------------------------------------|
