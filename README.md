@@ -12,4 +12,4 @@ All reports are **reconstructed analysis of a retired security challenge** from 
 
 - [Follina](./blue-team-labs-online/follina.md) disabled due to platform rules and regulations
 - [Bruteforce](./blue-team-labs-online/bruteforce.md) disabled due to platform rules and regulations
-- [Web-shell](./)
+- [Web-shell](./blue-team-labs-online/web-shell.md)
